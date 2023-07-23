@@ -5,18 +5,18 @@ Official code of **[Transformer-based Unified Recognition of Two Hands Manipulat
 [Hoseong Cho](https://sites.google.com/view/hoseong), Chanwoo Kim,  Jihyeon Kim, Seongyeong Lee, Elkhan Ismayilzada, [Seungryul Baek](https://sites.google.com/site/bsrvision00/)
 
 # Installation
-'''
+```
 https://github.com/chohoseong/H2OTR.git
-'''
-'''
+```
+```
 conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch
 pip install -r requirements.txt
-'''
+```
 Compiling CUDA operators
-'''
+```
 cd ./models/ops
 sh ./make.sh
-'''
+```
 
 # Data Preparation
 Please download [FPHA](https://guiggh.github.io/publications/first-person-hands/), [H2O](https://taeinkwon.com/projects/h2o/) datasets.
