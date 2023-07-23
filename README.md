@@ -17,6 +17,9 @@ Compiling CUDA operators
 cd ./models/ops
 sh ./make.sh
 ```
+Download [mano](https://mano.is.tue.mpg.de/index.html) and [manopth](https://github.com/hassony2/manopth.git)
+
+
 
 # Data Preparation
 Please download [FPHA](https://guiggh.github.io/publications/first-person-hands/), [H2O](https://taeinkwon.com/projects/h2o/) datasets.
