@@ -39,7 +39,7 @@ Register and download [MANO](https://mano.is.tue.mpg.de/index.html) model.
 
 
 # Data Preparation
-Please download [FPHA](https://guiggh.github.io/publications/first-person-hands/), [H2O](https://taeinkwon.com/projects/h2o/) datasets.
+Download [FPHA](https://guiggh.github.io/publications/first-person-hands/), [H2O](https://taeinkwon.com/projects/h2o/) datasets.
 ```
 .H2OTR
 └── data
