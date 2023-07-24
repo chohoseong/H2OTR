@@ -6,9 +6,9 @@ Official code of **[Transformer-based Unified Recognition of Two Hands Manipulat
 
 |Input|Pose|Contact|
 |:---:|:---:|:---:|
-|<img src="assets/read_book_ori.png"/>|<img src="assets/read_book_pose.png"/>|<img src="assets/read_book_contact.png"/>|
-|<img src="assets/open_lotion_ori.png"/>|<img src="assets/open_lotion_pose.png"/>|<img src="assets/open_lotion_contact.png"/>|
-|<img src="assets/close_chips_ori.png"/>|<img src="assets/close_chips_pose.png"/>|<img src="assets/close_chips_contact.png"/>|
+|<img src="assets/demo1_1.png"/>|<img src="assets/demo1_2.png"/>|<img src="assets/demo1_3.png"/>|
+|<img src="assets/demo2_1.png"/>|<img src="assets/demo2_2.png"/>|<img src="assets/demo2_3.png"/>|
+|<img src="assets/demo3_1.png"/>|<img src="assets/demo3_2.png"/>|<img src="assets/demo3_3.png"/>|
 
 # Installation
 ```
