@@ -40,6 +40,20 @@ Register and download [MANO](https://mano.is.tue.mpg.de/index.html) model.
 
 # Data Preparation
 Please download [FPHA](https://guiggh.github.io/publications/first-person-hands/), [H2O](https://taeinkwon.com/projects/h2o/) datasets.
+```
+.H2OTR
+└── data
+    ├── FPHA
+    │   ├── Object_6D_pose_annotation_v1
+    │   ├── Video_files
+    │   ├── data_split_action_recognition.txt
+    │   └── ...
+    └── H2O
+        ├── action_labels
+        ├── subject1
+        ├── subject2
+        └── ...
+```
 
 # Inference
 ```
