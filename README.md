@@ -4,6 +4,12 @@ Official code of **[Transformer-based Unified Recognition of Two Hands Manipulat
 
 [Hoseong Cho](https://sites.google.com/view/hoseong), Chanwoo Kim,  Jihyeon Kim, Seongyeong Lee, Elkhan Ismayilzada, [Seungryul Baek](https://sites.google.com/site/bsrvision00/)
 
+|Input|Pose|Contact|
+|:---:|:---:|:---:|
+|<img src="assets/read_book_ori.png"/>|<img src="assets/read_book_pose.png"/>|<img src="assets/read_book_contact.png"/>|
+|<img src="assets/open_lotion_ori.png"/>|<img src="assets/open_lotion_pose.png"/>|<img src="assets/open_lotion_contact.png"/>|
+|<img src="assets/close_chips_ori.png"/>|<img src="assets/close_chips_pose.png"/>|<img src="assets/close_chips_contact.png"/>|
+
 # Installation
 ```
 https://github.com/chohoseong/H2OTR.git
