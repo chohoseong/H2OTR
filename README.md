@@ -23,8 +23,19 @@ Compiling CUDA operators
 cd ./models/ops
 sh ./make.sh
 ```
-Download [mano](https://mano.is.tue.mpg.de/index.html) and [manopth](https://github.com/hassony2/manopth.git)
-
+Register and download [MANO](https://mano.is.tue.mpg.de/index.html) model.
+```
+.H2OTR
+├── AIK
+├── config
+├── mano
+├── manopth
+├── models
+├── README.md
+├── demo.py
+├── requirements.txt
+...
+```
 
 
 # Data Preparation
