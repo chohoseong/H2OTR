@@ -54,6 +54,9 @@ Download [FPHA](https://guiggh.github.io/publications/first-person-hands/), [H2O
         ├── subject2
         └── ...
 ```
+# Pretrained weight
+You can access the pretrained weight file for the H2O and FPHA datasets by following the [link](https://drive.google.com/drive/folders/1JLXDqAP-RfqQQ0oOAYGbMVXTq3NG3wEN?usp=sharing)
+ 
 
 # Inference
 ```
