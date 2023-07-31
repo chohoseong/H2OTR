@@ -1,0 +1,6 @@
+*.pyc
+models/ops/build
+models/ops/dist
+weights
+results
+mano

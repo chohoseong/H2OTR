@@ -1,0 +1,6 @@
+tqdm
+opencv-python
+matplotlib
+trimesh
+einops
+chumpy
