@@ -15,8 +15,10 @@ Official code of **[Transformer-based Unified Recognition of Two Hands Manipulat
 git clone https://github.com/chohoseong/H2OTR.git
 ```
 ```
-conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch
+conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge
 pip install -r requirements.txt
+conda install -c fvcore -c iopath -c conda-forge fvcore iopath
+conda install pytorch3d -c pytorch3d
 ```
 Compiling CUDA operators
 ```
@@ -27,10 +29,20 @@ Register and download [MANO](https://mano.is.tue.mpg.de/index.html) model.
 ```
 .H2OTR
 ├── AIK
+│        ├── AIK_config.py
+│        └── AIK_torch.py
 ├── config
+│        ├── H2O 
+│        └── FPHA
 ├── mano
+│        ├── models
+│        └── ...
 ├── manopth
+│        ├── manolayer.py
+│        └── ...
 ├── models
+│        ├── H2OTR.py
+│        └── ...
 ├── README.md
 ├── demo.py
 ├── requirements.txt
